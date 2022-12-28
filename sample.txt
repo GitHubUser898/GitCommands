@@ -1,1 +1,4 @@
 adding first line into sample.txt file
+
+
+updating the file content after the revert command.
