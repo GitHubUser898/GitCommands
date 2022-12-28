@@ -1,1 +1,2 @@
 adding first line into sample.txt file
+adding second line
